@@ -1,21 +1,57 @@
-# Calculator-with-React-Native
-My New Project Calclator
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
-<h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<h3 align="center">A passionate frontend & backend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+# Calculator App With React-Native
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrlexcoder&label=Profile%20views&color=0e75b6&style=flat" alt="mrlexcoder" /> </p>
+A Fully Functional Calculator With best Ui Design with React-Native
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+## Authors
 
-- 💬 Ask me about **Android, Website, Wordpress**
+- [@mrlexcoder](https://www.github.com/mrlexcoder)
 
-- 📫 How to reach me **mrlexcoder@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
+## Screenshots
+
+![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbDSjpNvN4KcsPWxMtHU9inF01Ax_vGgh63EsdybS4GcdapwnLF1dJ-0U-poqCraILghK5vSHFgyD7PpDzOjaCxgaq43yshxKOKr0vz30HPxjs54mIcIPW9oyI61LnBhTtYPo5x26YKuKhALdUhe7SSmpMuMAhalBMT841GbCq8b03PYG4EjJyiRZkuw/s1920/calculator-1.png)
+
+![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju1PR2bI7XyPGA_o0usmzjHAVJ60psPiC5ne0SMlacufbs0lQ-YUrBGxbAI1af4L5Qz2QqYLS_6ZWLBrLYaWq3zvOfwmL1vpe0Ej_HqBIEE5av7HpvJgvWNKSoXYW58YkSzGJsk0c-X-V01IWzYBppxKIuNZKliysiNUBB01ecRgxGN1qnl5jl_pi-0g/s1920/calculator%20Ui.png)
+
+## Contributing
+
+Contributions are always welcome!
+
+See `contributing.md` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+
+## License
+
+[mit](https://choosealicense.com/licenses/mit/)
+
+
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+
+## Installation
+
+Install my-project with npm
+
+```bash
+https://github.com/mrlexcoder/Calculator-with-React-Native.git
+  
+yarn install / npm install
+```
+
+    
+## Support
+
+For support, email mrlexcoder@gmail.com or join our Slack channel.
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kumar-4333641a6)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mrlex_coder?t=gQtcw7UI_uBj6F9j7qmJ2Q&s=09)
+
